@@ -1,8 +1,7 @@
-
 [project]
 name = "mcp-deployment"
 version = "0.1.0"
-description = "Add your description here"
+description = "Demo MCP server deployment"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
