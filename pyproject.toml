@@ -1,6 +1,6 @@
 
 [project]
-name = "mcp-server-deepdive-deployment"
+name = "mcp-deployment"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mcp-server = "mcp-deployment.__main__:main"
+mcp-server = "mcpserver.__main__:main"
 
 [build-system]
 requires = ["setuptools"]
